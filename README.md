@@ -1,4 +1,7 @@
 ## Hi there 👋
+Actualmente estoy trabajando en Llamatracker
+Actualmente hablo 5 idiomas
+Español, Ingles, Catalan, Italiano, japones y portugues;
 
 <!--
 **benvalencia/benvalencia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

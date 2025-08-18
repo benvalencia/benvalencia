@@ -1,5 +1,4 @@
 ## Hi there 👋
-Actualmente estoy trabajando en Llamatracker
 Actualmente hablo 5 idiomas
 Español, Ingles, Catalan, Italiano, japones y portugues;
 

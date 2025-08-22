@@ -87,10 +87,32 @@
 <details align="left">
   <summary> <b> <samp> Project I'm super proud </samp></b></summary>
   <div>
-      <div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Llamatracker</div>
+      <div>
+        <h2>
+          <img src="https://www.llamatracker.net/_astro/fortnite-llama-480.BTxtRGp3.png" width="30px"> Llamatracker
+        </h2>
       <div>
         <div>
-          Detalles
+          <b></b>Llamatracker is an iOS application designed as a companion for Fortnite players, offering integration with the public Epic Games API to provide real-time statistics and continuous updates of Fortnite-related content.
+          <br>
+          <br>
+          <div>
+            <div><b>Key Features</b></div>
+            <br>
+            <div>
+              <b>Detailed Statistics:</b> Visualization of metrics and performance in different game modes (Solo, Duo, Trio, Squad, Lifetime) through data analysis obtained directly from the official player profile.
+            </div>
+            <div>
+              <b>Official News:</b> Integration with official sources to keep users informed about Fortnite updates, events, and news.
+            </div>
+            <div>
+              <b>Daily Item Rotation:</b> Real-time display of the item rotation in Fortnite, including details such as categories and timing for the next update.
+            </div>
+            <div>
+              <b>Visual Modes:</b> Support for light and dark modes to enhance the user experience.
+            </div>
+            <br>
+          </div>
         </div>
         <div>
           imagenes
@@ -103,7 +125,6 @@
         <div>
           <a href="https://github.com/benvalencia/llamatracker_page">Webpage Repository</a>
         </div>
-        <div>design repo app</div>
         <div>
           donwload app
         </div>

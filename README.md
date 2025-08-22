@@ -13,15 +13,15 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="60" alt="denojs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="60" alt="mongodb logo"  />
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="60" alt="mongodb logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/sass/CC6699" height="60" alt="sass logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="60" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/astro/FF5D01" height="60" alt="astro logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="60" alt="html5 logo"  />
   <img width="12" />
@@ -35,15 +35,15 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nginx/009639" height="60" alt="nginx logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="60" alt="cloudflare logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/php/777BB4" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="60" alt="redux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/cloudflare/F38020" height="60" alt="cloudflare logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jira/0052CC" height="60" alt="jira logo"  />
   <img width="12" />
@@ -57,3 +57,4 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
 </div>
+

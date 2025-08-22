@@ -72,7 +72,7 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
 
 ###
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center ">
+<div style="display: flex; justify-content: space-between; align-items: center ">
   <div>
     <h4>Currently open to new oportunities</h4>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />

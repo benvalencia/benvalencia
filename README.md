@@ -84,9 +84,11 @@
 
 ###
 ###
-<details align="center">
-  <summary> <b> <samp> Light bonfire </samp></b></summary>
-  <div>test </div>
+<details align="left">
+  <summary> <b> <samp> Project I'm super proud </samp></b></summary>
+  <div>
+      Llamatracker
+  </div>
 </details>
 
 ###

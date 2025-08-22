@@ -87,7 +87,21 @@
 <details align="left">
   <summary> <b> <samp> Project I'm super proud </samp></b></summary>
   <div>
-      Llamatracker
+      <div><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Llamatracker</div>
+      <div>
+        <div>
+          Detalles
+        </div>
+        <div>
+          imagenes
+        </div>
+      </div>
+      <div>
+        <div>webpage app</div>
+        <div>repo webpage app</div>
+        <div>design repo app</div>
+        <div>donwload app</div>
+      </div>
   </div>
 </details>
 <div>

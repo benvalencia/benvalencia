@@ -77,7 +77,7 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
       <img align="right" alt="Coding" width="110" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>
   </picture>
   <div>
-    <h4>Currently open to new oportunities</h4>
+    <h4>Currently open to new opportunities</h4>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </div>
 </div>

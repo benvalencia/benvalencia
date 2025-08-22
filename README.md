@@ -1,7 +1,9 @@
 
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="100"/>
-</p>
+[//]: # (<p align="center">)
+
+[//]: # (  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="100"/>)
+
+[//]: # (</p>)
 
 <h2 align="center">Hey <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm <a href="https://github.com/benvalencia">Ben</a></h2>
 

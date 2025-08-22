@@ -4,8 +4,6 @@
 </p>
 
 ## Hi there 👋
-Actualmente hablo 5 idiomas
-Español, Ingles, Catalan, Italiano, japones y portugues;
 ###
 <div>
   <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
@@ -13,17 +11,13 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
     Soy un desarrollador de software, fiel amante del código, con más de 8 años creando software con tecnologías modernas como Angular, React Native, Deno y TypeScript, siempre buscando nuevos retos que me lleven a mis límites.
     <br>
     <br>
+    Además de programar, me gusta combinar mis habilidades técnicas con conocimientos de negocio gracias a mi media formación en ADE. 
     <br>
     <br>
-Aqui ira tenxto mucho text
+    Hablo varios idiomas (español, inglés, italiano, catalán, japonés, IA Prompt y portugués básico), lo que me facilita conectar con personas de diferentes culturas y sumergirme en proyectos internacionales.
     <br>
-Aqui ira tenxto mucho text
     <br>
-Aqui ira tenxto mucho text
-    <br>
-Aqui ira tenxto mucho text
-    <br>
-Aqui ira tenxto mucho text
+    ¡Si te gusta la tecnología y el desarrollo, eres bienvenido!
     <br>
   </div>
 </div>

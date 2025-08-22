@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
+</p>
+
 ## Hi there 👋
 Actualmente hablo 5 idiomas
 Español, Ingles, Catalan, Italiano, japones y portugues;

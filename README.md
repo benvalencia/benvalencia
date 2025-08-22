@@ -93,12 +93,11 @@
         </h2>
       <div>
         <div>
-          <b></b>Llamatracker is an iOS application designed as a companion for Fortnite players, offering integration with the public Epic Games API to provide real-time statistics and continuous updates of Fortnite-related content.
+          <b>Llamatracker</b> is an iOS application designed as a companion for Fortnite players, offering integration with the public Epic Games API to provide real-time statistics and continuous updates of Fortnite-related content.
           <br>
           <br>
           <div>
             <div><b>Key Features</b></div>
-            <br>
             <div>
               <b>Detailed Statistics:</b> Visualization of metrics and performance in different game modes (Solo, Duo, Trio, Squad, Lifetime) through data analysis obtained directly from the official player profile.
             </div>

@@ -6,11 +6,38 @@
 ## Hi there 👋
 Actualmente hablo 5 idiomas
 Español, Ingles, Catalan, Italiano, japones y portugues;
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 ###
-
+<div>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+  <div>
+    Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+Aqui ira tenxto mucho text
+    <br>
+  </div>
+</div>
 
 ###
+###
+<br/>
 
 <div align="center">
   <img src="https://cdn.simpleicons.org/angular/DD0031" height="60" alt="angularjs logo"  />
@@ -67,11 +94,8 @@ Español, Ingles, Catalan, Italiano, japones y portugues;
 </div>
 
 ###
-
-<br/>
-
 ###
-
+<br/>
 <div>
   <picture>
       <img align="right" alt="Coding" width="110" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>

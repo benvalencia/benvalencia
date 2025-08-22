@@ -6,7 +6,7 @@
 ## Hi there 👋
 ###
 <div>
-  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+  <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=190px></picture>
   <div>
     Soy un desarrollador de software, fiel amante del código, con más de 8 años creando software con tecnologías modernas como Angular, React Native, Deno y TypeScript, siempre buscando nuevos retos que me lleven a mis límites.
     <br>

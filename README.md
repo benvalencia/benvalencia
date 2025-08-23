@@ -102,6 +102,11 @@
           <br>
           <br>
           <div>
+            <div><b>1k+ active users</b></div>
+          </div>
+          <br>
+          <br>
+          <div>
             <div><b>Key Features</b></div>
             <div>
               <b>Detailed Statistics:</b> Visualization of metrics and performance in different game modes (Solo, Duo, Trio, Squad, Lifetime) through data analysis obtained directly from the official player profile.

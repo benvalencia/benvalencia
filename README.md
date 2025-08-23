@@ -102,9 +102,8 @@
           <br>
           <br>
           <div>
-            <div><b>1k+ active users</b></div>
+            <div>Currently <b>1k+ active users</b> trust on llamatracker</div>
           </div>
-          <br>
           <br>
           <div>
             <div><b>Key Features</b></div>

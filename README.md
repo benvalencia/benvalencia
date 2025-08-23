@@ -93,7 +93,9 @@
         </h2>
       <div>
         <div>
-          <picture> <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.lRh-N8Du.png" width=250px></picture>
+          <picture> 
+            <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.lRh-N8Du.png" width=250px>
+        </picture>
         </div>
         <div>
           <b>Llamatracker</b> is an iOS application designed as a companion for Fortnite players, offering integration with the public Epic Games API to provide real-time statistics and continuous updates of Fortnite-related content.
@@ -125,17 +127,13 @@
           <a href="https://github.com/benvalencia/llamatracker_page">Webpage Repository</a>
         </div>
         <div>
-          <picture>
-            <img alt="person programing" align="left" src="https://www.llamatracker.net/_astro/appstore.BpLKCGyT.png" width=150px>
-          </picture>
+          <a href="https://apps.apple.com/us/app/llamatracker/id6739455445">Download App</a>
         </div>
       </div>
     </div>
   </div>
 </details>
-<br>
 
-###
 <div>
   <picture>
       <img align="right" alt="Coding" width="110" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>

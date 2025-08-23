@@ -13,7 +13,7 @@
     I am a software developer and a true lover of code, with over 8 years of experience creating software using modern technologies like Angular, React Native, Deno, and TypeScript, always seeking new challenges that push me to my limits.
     <br>
     <br>
-    Besides programming, I enjoy combining my technical skills with business knowledge thanks to my partial studies in Business Administration (ADE).
+    Besides programming, I enjoy combining my technical skills with business knowledge thanks to my partial studies in Business Administration.
     <br>
     <br>
     I speak several languages (Spanish, English, Italian, Catalan, Japanese, AI prompting, and basic Portuguese), which helps me connect with people from different cultures and dive into international projects.

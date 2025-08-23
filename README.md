@@ -93,7 +93,7 @@
         </h2>
       <div>
         <div>
-          <picture> <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.C5T0qsGK.png" width=250px></picture>
+          <picture> <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.lRh-N8Du.png" width=250px></picture>
         </div>
         <div>
           <b>Llamatracker</b> is an iOS application designed as a companion for Fortnite players, offering integration with the public Epic Games API to provide real-time statistics and continuous updates of Fortnite-related content.

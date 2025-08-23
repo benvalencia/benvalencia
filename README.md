@@ -102,7 +102,7 @@
           <br>
           <br>
           <div>
-            <div>Currently <b>1k+ active users</b> trust on llamatracker</div>
+            <div>Currently <b>1k+ active users</b> trust on <b>Llamatracker</b></div>
           </div>
           <br>
           <div>

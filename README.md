@@ -126,7 +126,7 @@
         </div>
         <div>
           <picture>
-            <img alt="person programing" align="left" src="https://www.llamatracker.net/_astro/appstore.BpLKCGyT.png" width=250px>
+            <img alt="person programing" align="left" src="https://www.llamatracker.net/_astro/appstore.BpLKCGyT.png" width=150px>
           </picture>
         </div>
       </div>

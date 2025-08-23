@@ -125,7 +125,7 @@
       </div>
       <div>
         <div>
-          <a href="http://www.llamatracker.net/">www.llamatracker.net</a>
+          <a href="https://www.llamatracker.net/">www.llamatracker.net</a>
         </div>
         <div>
           <a href="https://github.com/benvalencia/llamatracker_page">Webpage Repository</a>

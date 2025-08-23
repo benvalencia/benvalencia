@@ -94,7 +94,7 @@
       <div>
         <div>
           <picture> 
-            <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.lRh-N8Du.png" width=250px>
+            <img alt="person programing" align="right" src="https://www.llamatracker.net/_astro/repo_disegn.lRh-N8Du.png" width=270px>
         </picture>
         </div>
         <div>

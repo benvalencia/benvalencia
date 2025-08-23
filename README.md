@@ -85,7 +85,7 @@
 ###
 ###
 <details align="left">
-  <summary> <b> <samp> Project I'm super proud </samp></b></summary>
+  <summary> <b> <samp>I'm super proud of this project... </samp></b></summary>
   <div>
       <div>
         <h2>

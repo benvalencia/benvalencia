@@ -10,7 +10,7 @@
 <div>
   <picture> <img alt="person programing" align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=190px></picture>
   <div>
-    I am a software developer and a true lover of code, with over 8 years of experience creating software using modern technologies like Angular, React Native, Deno, and TypeScript, always seeking new challenges that push me to my limits.
+    I am a software developer and a true lover of code, with over 9 years of experience creating software using modern technologies like Angular, React Native, Deno, and TypeScript, always seeking new challenges that push me to my limits.
     <br>
     <br>
     Besides programming, I enjoy combining my technical skills with business knowledge thanks to my partial studies in Business Administration.
@@ -143,7 +143,8 @@
       <img align="right" alt="Coding" width="110" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif"/>
   </picture>
   <div>
-    <h4>Currently open to new opportunities</h4>
+    <h4>Currently interchanging code for coffee @ Nespresso</h4>
+    ##<h4>Currently open to new opportunities</h4>
     <a href="https://www.linkedin.com/in/benjaminevalencia/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>

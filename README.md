@@ -144,7 +144,7 @@
   </picture>
   <div>
     <h4>Currently interchanging code for coffee @ Nespresso</h4>
-    ##<h4>Currently open to new opportunities</h4>
+    [//]: <h4>Currently open to new opportunities</h4>
     <a href="https://www.linkedin.com/in/benjaminevalencia/" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
     </a>
